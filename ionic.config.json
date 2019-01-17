@@ -1,5 +1,7 @@
 {
   "name": "RobotChat",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
